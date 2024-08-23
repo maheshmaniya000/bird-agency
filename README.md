@@ -27,7 +27,7 @@ This is the official website for Bird Marketing Services, a digital marketing ag
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/bird-marketing-services.git
+git clone https://github.com/maheshmaniya000/bird-agency.git
 cd bird-marketing-services
 ```
 
